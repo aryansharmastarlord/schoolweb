@@ -1,0 +1,76 @@
+.para{
+font-size: 22px;
+
+}
+
+.hi{
+margin: 0;
+background-color: #383a59;
+
+
+}
+
+.hii{
+
+padding-left: 20px;
+padding-right: 40px;
+padding-bottom: 40px;
+margin-top: 40px;
+margin-bottom: 40px;
+
+padding-top: 2px;
+
+
+}
+
+body {
+  color: #414141;
+  background-color: #282a36;
+
+  font-family: "sans-serif";
+  margin: 0;
+}
+
+
+
+.custom {
+  font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+  font-size: 28px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #bd93f9;
+  font-size: 44px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+h1,h2,h3,h4 {
+color: #5e6472;
+
+}
+
+p{
+  font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+  color: #282a36;
+  font-size: 18px;
+}
+
+hr {
+  background-color: #c5c6c6;
+  border-style: none;
+  height: 2px;
+  width: 78%;
+}
+
+
+
+
+.i1{
+
+  margin-top:2%; border:1px solid #021a40;
+  border-radius: 60%;
+  height: 180px;
+
+
+  }

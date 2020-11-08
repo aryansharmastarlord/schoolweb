@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    background:#6272a4;
+    padding: 20px 10px;
+    margin-top: 20px;
+    padding-left: 80px;
+padding-right: 80px;
+    /* height: 17em; */
+}
+
+.foot_second{
+    float: right;
+     width: 70%;
+     font-size: 1em;
+}
+.foot_second p{
+    padding: 10px;
+    text-align: justify;
+    line-height: 25px;
+    color: white;
+}
+
+.foot_second h2{
+    color: #bd93f9;
+    padding:10px;
+}
